@@ -35,7 +35,12 @@ namespace DXApplication1
 
         private void gridView1_InitNewRow(object sender, DevExpress.XtraGrid.Views.Grid.InitNewRowEventArgs e)
         {
-            
+            MessageBox.Show("asd");   
+        }
+
+        private void ribbonControl1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

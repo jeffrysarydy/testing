@@ -95,3 +95,6 @@ D:\Project\New folder\DXApplication1\DXApplication1\obj\Debug\DXApplication1.pdb
 D:\Project\New folder (2)\DXApplication1\DXApplication1\bin\Debug\DXApplication1.exe.config
 D:\Project\New folder (2)\DXApplication1\DXApplication1\obj\Debug\DXApplication1.exe
 D:\Project\New folder (2)\DXApplication1\DXApplication1\obj\Debug\DXApplication1.pdb
+D:\Project GitHub\testing\DXApplication1\DXApplication1\bin\Debug\DXApplication1.exe.config
+D:\Project GitHub\testing\DXApplication1\DXApplication1\obj\Debug\DXApplication1.exe
+D:\Project GitHub\testing\DXApplication1\DXApplication1\obj\Debug\DXApplication1.pdb
